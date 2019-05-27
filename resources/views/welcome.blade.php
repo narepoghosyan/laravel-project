@@ -84,7 +84,7 @@
 
     <div class="content">
         <div class="title m-b-md">
-            Welcome to Laravel 5
+            This is Laravel 5
         </div>
 
         <div class="links">
