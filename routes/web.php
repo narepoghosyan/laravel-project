@@ -54,7 +54,7 @@ Route::get('/customers/customer_tenancy', 'CustomersController@customer_tenancy'
 
 
 Route::get('/about', function(){
-    return 'about page';
+    return 'about page!!!';
 });
 
 
