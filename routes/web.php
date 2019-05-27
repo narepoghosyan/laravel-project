@@ -53,7 +53,7 @@ Route::post('/customers', 'CustomersController@store');
 Route::get('/customers/customer_tenancy', 'CustomersController@customer_tenancy')->name('customer_tenancy');
 
 
-Route::get('/abuot', function(){
+Route::get('/about', function(){
     return 'about page';
 });
 
