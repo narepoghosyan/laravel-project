@@ -57,8 +57,6 @@ Route::get('/about', function(){
     return 'about page!!!';
 });
 
-Route::resource('reports', 'ReportsController');
-
 
 
 
