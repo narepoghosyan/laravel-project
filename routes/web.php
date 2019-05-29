@@ -53,8 +53,8 @@ Route::post('/customers', 'CustomersController@store');
 Route::get('/customers/customer_tenancy', 'CustomersController@customer_tenancy')->name('customer_tenancy');
 
 
-Route::get('/about', function(){
-    return 'about page!!!';
+Route::get('/nare', function(){
+    return 'nare page!!!';
 });
 
 
