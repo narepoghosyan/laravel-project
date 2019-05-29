@@ -54,7 +54,7 @@ Route::get('/customers/customer_tenancy', 'CustomersController@customer_tenancy'
 
 
 Route::get('/any', function(){
-    return 'any page!!! lalala';
+    return 'any page!!!';
 });
 
 
