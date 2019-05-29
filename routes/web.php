@@ -57,6 +57,10 @@ Route::get('/any', function(){
     return 'any page!!!';
 });
 
+Route::get('/spme', function(){
+    return 'some page!!!';
+});
+
 
 
 
