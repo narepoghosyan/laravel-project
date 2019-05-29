@@ -54,8 +54,8 @@ Route::get('/customers/customer_tenancy', 'CustomersController@customer_tenancy'
 
 
 
-Route::get('/nare', function(){
-    return 'nare page!!!';
+Route::get('/changed', function(){
+    return 'changed page!!!';
 });
 
 
